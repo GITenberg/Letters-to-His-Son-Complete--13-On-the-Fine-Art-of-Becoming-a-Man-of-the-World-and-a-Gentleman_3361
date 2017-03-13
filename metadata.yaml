@@ -1,7 +1,10 @@
 _repo: Letters-to-His-Son-Complete--13-On-the-Fine-Art-of-Becoming-a-Man-of-the-World-and-a-Gentleman_3361
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Letters to His Son on the Fine Art of Becoming a Man of the World
   and a Gentleman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chesterfield, Philip Dormer Stanhope, Earl of
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1187
     wikipedia: http://en.wikipedia.org/wiki/Philip_Stanhope%2C_4th_Earl_of_Chesterfield
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3361#Letters-to-His-Son-Complete--13-On-the-Fine-Art-of-Becoming-a-Man-of-the-World-and-a-Gentleman
 gutenberg_issued: '2004-10-12'
 gutenberg_type: Text
 identifiers:
